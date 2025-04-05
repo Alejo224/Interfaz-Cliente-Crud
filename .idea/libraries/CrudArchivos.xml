@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CrudArchivos">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/CrudArchivos.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
